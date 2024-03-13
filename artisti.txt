@@ -1,0 +1,10 @@
+1, Vita de vie, rock , 500
+2, Subcarpati, hip-hop, 440
+3, Fuego, colinde, 1000
+4, Hrusca, colinde, 800
+5, Tupac, rap, 1000000
+6, Alina Eremia, usoara, 800
+7, Alesio, usoara, 100
+8, Sandu Ciorba, manele, 10000
+9, ACDC, rock, 1000
+10, Ian, trap, 2000
